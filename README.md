@@ -14,3 +14,4 @@
 - https://nimbella.com/blog/ci/cd-pipeline-with-github-actions
 - https://docs.github.com/es/actions/creating-actions/publishing-actions-in-github-marketplace
 - https://morioh.com/p/f5497b299c46
+- [Youtube - how to make a github action](https://www.youtube.com/results?search_query=how+to+make+a+github+action)
